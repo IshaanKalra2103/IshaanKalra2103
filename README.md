@@ -89,7 +89,7 @@ learning_goals = {
 ## 🎓 About me
 
 **Education**  
-- Computer Science at **University of Maryland** (Senior, GPA: 3.72)
+- Computer Science at **University of Maryland**
 - Minor in **Statistics**
 
 **Philosophy**  
