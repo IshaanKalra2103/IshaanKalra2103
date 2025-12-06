@@ -11,7 +11,7 @@ I build intelligent systems that solve real problems. My work spans **machine le
 ## 🚀 Some things I am building
 
 🎵 **VYBZ** – Music Discovery Platform  
-A cross-platform startup connecting people through music discovery. Building web (Next.js, GSAP, Tailwind, Supabase) and mobile (Flutter) experiences. Won **$3,000 at Pitch Dingman Competition**.
+A cross-platform startup connecting people through music discovery. Building web (Next.js, GSAP, Tailwind, Supabase) and mobile (Flutter) experiences. 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
@@ -30,15 +30,6 @@ Leading ML team exploring domain-specific LLM use cases for environmental policy
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-9B59B6?style=flat-square&logo=python&logoColor=white)
 
-🔍 **Code Retrieval Systems** – UMIACS Research  
-Working with Prof. Thomas Goldstein on building intelligent code retrieval systems. Exploring how embeddings and search can improve developer workflows.
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-💰 **GoMama** – Financial Empowerment Platform  
-Won **Capital One Finance Track at Hack Violet**. Built a platform empowering women with financial literacy tools using Flask, GCP, and Stripe API.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -95,7 +86,6 @@ learning_goals = {
 🎓 **Education**  
 - Computer Science at **University of Maryland** (Senior, GPA: 3.72)
 - Minor in **Statistics**
-- Expected Graduation: **May 2027**
 
 🚀 **Philosophy**  
 - I build systems that bridge research and production
@@ -108,28 +98,6 @@ learning_goals = {
 - **CMSC436 Hall of Fame** – GoalDash
 
 ---
-
-## 💼 Experience
-
-**AI Research Engineer** @ Center for Global Sustainability  
-Leading ML team on domain-specific LLM applications for policy research
-
-**Undergraduate Researcher** @ UMIACS (Prof. Thomas Goldstein)  
-Building code retrieval systems for developer tooling
-
-**Founding Engineer** @ VYBZ  
-End-to-end product development for music discovery startup
-
-**ML Engineer Intern** @ ClanConnect (New Delhi)  
-Developed Text2SQL and RAG systems for production deployment
-
-**AI Engineer** @ Inzone.Ai  
-Built 3D avatar generation pipelines
-
-**FIRE Research** @ UMD (Prof. Thanicha Ruangmas)  
-ESG and environmental policy analysis using R and NLP
-
-
 
 Feel free to reach out anytime.
 
