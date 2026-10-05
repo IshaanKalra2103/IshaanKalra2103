@@ -2,7 +2,8 @@
 
 # Hi, I'm Ishaan
 
-**I build agentic AI systems and retrieval infrastructure, and I like going deep on systems.**<br>
+**I build AI agents, and I love going deep on systems.**<br>
+*Professionally lazy: if I have to do it every day, I'd rather build the thing that does it for me.*<br><br>
 CS + Statistics at the University of Maryland (BS '26, MS '27)
 
 [![Website](https://img.shields.io/badge/ishaankalra.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ishaankalra.dev)
