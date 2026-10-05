@@ -11,7 +11,6 @@ CS + Statistics at the University of Maryland (BS '26, MS '27)
 </div>
 
 ### Now
-- **Forward Deployed Engineer** at [MediVoyage](https://mymedivoyage.com)
 - **Research Assistant, UMIACS**: code retrieval for automated program repair, benchmarking embedding models on RepoEval, SWE-bench-lite and CoIR
 - **Research Software Engineer, UMD Center for Global Sustainability**: multi-agent pipelines that screen and extract from 20,000+ climate research papers, now focused on literature pipelines for methane mitigation
 
