@@ -19,7 +19,7 @@ CS + Statistics at the University of Maryland (BS '26, MS '27)
 Share a prompt, a story or a whole book, and agents turn it into a 3D world you can play in the browser.
 - **Forge skills** run the pipeline: AI-generated 3D models, rigging and animation, Blender, audio, three.js gameplay, and headless playtest bots that check the result.
 - **Forge Studio** is the agentic harness for game-dev workflows: agents with studio roles, work orders and repeatable pipelines.
-- **The proof:** a Spider-Verse web-swinging game through a procedurally generated Manhattan, built with the forge skills. **40K views, 2K+ engagements, 2,500+ players.** Optimized for the browser, with a mobile port. [Launch post](https://x.com/KalraIshaan11/status/2105065901972173054)
+- **The proof:** a Spider-Verse web-swinging game through a procedurally generated Manhattan, built with the forge skills. **40K views, 2K+ engagements, 6.6K players.** Optimized for the browser, with a mobile port. [Launch post](https://x.com/KalraIshaan11/status/2105065901972173054)
 
 ### Hackathon wins
 | Project | |
