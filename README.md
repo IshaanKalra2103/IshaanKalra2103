@@ -15,6 +15,12 @@ CS + Statistics at the University of Maryland (BS '26, MS '27)
 - **Research Assistant, UMIACS**: code retrieval for automated program repair, benchmarking embedding models on RepoEval, SWE-bench-lite and CoIR
 - **Research Software Engineer, UMD Center for Global Sustainability**: multi-agent pipelines that screen and extract from 20,000+ climate research papers, now focused on literature pipelines for methane mitigation
 
+### Building: World Forge
+Share a prompt, a story or a whole book, and agents turn it into a 3D world you can play in the browser.
+- **Forge skills** run the pipeline: AI-generated 3D models, rigging and animation, Blender, audio, three.js gameplay, and headless playtest bots that check the result.
+- **Forge Studio** is the agentic harness for game-dev workflows: agents with studio roles, work orders and repeatable pipelines.
+- **The proof:** a Spider-Verse web-swinging game through a procedurally generated Manhattan, built with the forge skills. **40K views, 2K+ engagements, 2,500+ players.** Optimized for the browser, with a mobile port. [Launch post](https://x.com/KalraIshaan11/status/2105065901972173054)
+
 ### Hackathon wins
 | Project | |
 |---|---|
@@ -36,7 +42,5 @@ CS + Statistics at the University of Maryland (BS '26, MS '27)
 - **Agent infrastructure**: a job-search agent over ~7,900 postings with deterministic scoring and "watch once, replay forever" portal skills; a toolkit that turns captured browser traffic into self-healing MCP servers
 - **Multi-agent paper triage**: pro/con agents debate each paper, then a five-model judge panel rules (DSPy, LangGraph)
 - **Systems**: Apple Silicon support for a PS5 emulator (Rosetta, MoltenVK/Metal; zero-copy GPU memory, mesh-shader emulation), and a Wine-based compatibility layer with a SwiftUI launcher for running Windows games on macOS
-- **World Forge**: describe a world and an agent builds a playable three.js game
-
 ### Stack
 Python · TypeScript · Swift · C++ · FastAPI · React / Next.js · LangGraph · DSPy · PostgreSQL / pgvector · Docker · GCP
